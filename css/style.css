@@ -1,0 +1,28 @@
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #041436;
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  #countdown {
+    font-size: 3rem;
+    text-align: center;
+    font-style: italic;
+}
+ 
+
+  #btn
+  {
+    font-size: larger;
+
+    
+  }
+#btn:hover
+  {
+    cursor: pointer;
+    background-color:orange ;
+  }
